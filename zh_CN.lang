@@ -845,3 +845,12 @@ tips.previewapp.2=如果你在Minecraft Preview上进行游戏，那么你只能
 tips.previewapp.3=在Minecraft Preview中购买的项目在Minecraft中同样可用！
 tips.previewapp.4=关于新的功能有什么好的建议吗？请在反馈网址feedback.minecraft.net上告诉我们。
 tips.previewapp.5=你知道你可以在discord.gg/Minecraft上与我们的开发人员聊天吗？
+
+
+## Some lost strings (includes in 1.21.110.20 Preview)
+action.interact.wax_on=涂蜡	#
+action.interact.wax_off=脱蜡	#
+action.interact.scrape=刮削	#
+action.interact.drop_item=掉落物品	#
+resourcePack.incompatible.graphics.pbr=此包内含有启用Vibrant Visuals的信息，但你的设备不支持此选项。	#
+hbui.PlayerCard.playing=当前在%s中游戏	#

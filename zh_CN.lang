@@ -586,7 +586,7 @@ lesson.end.access.imagespreview=课程照片，第%1/%2张	#
 lesson.end.access.export=导出课程照片	#
 
 
-## Education Ore UI strings
+## Education Edition Ore UI
 hbui.CreateNewWorld.behaviorPacks.activatedAllPacksMessageDescription=你的所有行为包都已启用。	#
 hbui.CreateNewWorld.behaviorPacks.creatingPacksLinkButton=关于创建行为包	#
 hbui.CreateNewWorld.behaviorPacks.inactivePacksEmptyTitle=你还没有任何行为包	#
@@ -815,36 +815,36 @@ ori.warning.state=按下[确认]以在VR版Minecraft中进行游戏，或按下[
 
 
 ## Beta
-beta.loading.1=如果你玩的是Beta版，那么你只能和其他也在Beta版上进行游戏的好友联机！
-beta.loading.2=请记住，如果你玩的是Beta版，那么你无法游玩多数服务器。
-beta.loading.3=你在Beta版中购买的项目都是有效的。即使退出Beta版，你的已购内容也不会消失。
-beta.loading.4=在Beta版中加载世界之前，别忘了给创建备份。	
-beta.loading.5=请在bugs.mojang.com上报告发现的所有漏洞。
-beta.loading.6=想和我们聊聊Beta版吗？通过discord.gg/Minecraft来加入Minecraft Discord服务器。
-beta.loading.7=关于新的功能有什么好的建议吗？请访问反馈网址feedback.minecraft.net上的Beta版论坛，告诉我们你的建议。
-beta.loading.8=发现了漏洞？请访问bugs.mojang.com来报告给我们
-beta.loading.9=如果你的好友无法加入你的世界，那可能是因为他们不在Beta版中进行游戏。
-beta.loading.10=请记住，在Beta版中打开你的世界之前，要经常备份。	
-beta.loading.11=感谢参与测试！
-beta.loading.12=退出Beta版时需要帮助？请访问aka.ms/MinecraftXIP
-beta.loading.13=Beta版目前仅适用于Android设备。
-beta.loading.14=请记住，Beta版并非最终产品。你可能会发现崩溃、故障和其他奇怪的问题。
-beta.loading.15=欢迎你的反馈！请访问feedback.minecraft.net来告诉我们您的想法。
-beta.loading.16=通过discord.gg/Minecraft来加入Minecraft官方的Discord服务器！
-beta.loading.17=不用担心崩溃，因为在Beta版出现崩溃可能意味着以后版本的崩溃次数会少一些！
+beta.loading.1=如果你玩的是Beta版，那么你只能和其他也在Beta版上进行游戏的好友联机！	#
+beta.loading.2=请记住，如果你玩的是Beta版，那么你无法游玩多数服务器。	#
+beta.loading.3=你在Beta版中购买的项目都是有效的。即使退出Beta版，你的已购内容也不会消失。	#
+beta.loading.4=在Beta版中加载世界之前，别忘了给创建备份。	#
+beta.loading.5=请在bugs.mojang.com上报告发现的所有漏洞。	#
+beta.loading.6=想和我们聊聊Beta版吗？通过discord.gg/Minecraft来加入Minecraft Discord服务器。	#
+beta.loading.7=关于新的功能有什么好的建议吗？请访问反馈网址feedback.minecraft.net上的Beta版论坛，告诉我们你的建议。	#
+beta.loading.8=发现了漏洞？请访问bugs.mojang.com来报告给我们	#
+beta.loading.9=如果你的好友无法加入你的世界，那可能是因为他们不在Beta版中进行游戏。	#
+beta.loading.10=请记住，在Beta版中打开你的世界之前，要经常备份。	#
+beta.loading.11=感谢参与测试！	#
+beta.loading.12=退出Beta版时需要帮助？请访问aka.ms/MinecraftXIP	#
+beta.loading.13=Beta版目前仅适用于Android设备。	#
+beta.loading.14=请记住，Beta版并非最终产品。你可能会发现崩溃、故障和其他奇怪的问题。	#
+beta.loading.15=欢迎你的反馈！请访问feedback.minecraft.net来告诉我们您的想法。	#
+beta.loading.16=通过discord.gg/Minecraft来加入Minecraft官方的Discord服务器！	#
+beta.loading.17=不用担心崩溃，因为在Beta版出现崩溃可能意味着以后版本的崩溃次数会少一些！	#
 
 
 ## Preview
-gui.importRetailWorld.text.1=必须先导入此世界，才能在Preview版中使用。
-gui.importRetailWorld.text.3=你要创建此世界的Preview版副本存档吗？
-playscreen.beta_legacy_worlds=旧Preview版世界
-playscreen.beta_worlds=Preview版世界
-store.disabledOnBeta=当前Preview版已禁用此功能。
-tips.previewapp.1=感谢使用Minecraft Preview！
-tips.previewapp.2=如果你在Minecraft Preview上进行游戏，那么你只能和其他同设备的Preview版上进行游戏的好友联机！
-tips.previewapp.3=在Minecraft Preview中购买的项目在Minecraft中同样可用！
-tips.previewapp.4=关于新的功能有什么好的建议吗？请在反馈网址feedback.minecraft.net上告诉我们。
-tips.previewapp.5=通过discord.gg/Minecraft来加入Minecraft官方的Discord服务器！
+gui.importRetailWorld.text.1=必须先导入此世界，才能在Preview版中使用。	#
+gui.importRetailWorld.text.3=你要创建此世界的Preview版副本存档吗？	#
+playscreen.beta_legacy_worlds=旧Preview版世界	#
+playscreen.beta_worlds=Preview版世界	#
+store.disabledOnBeta=当前Preview版已禁用此功能。	#
+tips.previewapp.1=感谢使用Minecraft Preview！	#
+tips.previewapp.2=如果你在Minecraft Preview上进行游戏，那么你只能和其他同设备的Preview版上进行游戏的好友联机！	#
+tips.previewapp.3=在Minecraft Preview中购买的项目在Minecraft中同样可用！	#
+tips.previewapp.4=关于新的功能有什么好的建议吗？请在反馈网址feedback.minecraft.net上告诉我们。	#
+tips.previewapp.5=通过discord.gg/Minecraft来加入Minecraft官方的Discord服务器！	#
 
 
 ## Missing Strings

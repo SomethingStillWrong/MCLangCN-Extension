@@ -1,0 +1,26 @@
+{
+  "loading_messages": [
+    "tips.previewapp.1",
+    "tips.previewapp.2",
+    { "message": "tips.previewapp.3", "condition": "$marketplace_not_disabled" },
+    "tips.previewapp.4",
+    "tips.previewapp.5"
+  ],
+  "creative_loading_messages": [
+	"tips.previewapp.1",
+    "tips.previewapp.2",
+    { "message": "tips.previewapp.3", "condition": "$marketplace_not_disabled" },
+    "tips.previewapp.4",
+    "tips.previewapp.5"
+  ],
+  "realms_loading_messages": [
+    "tips.realms.1",
+    "tips.realms.2",
+    "tips.realms.3",
+    "tips.realms.4",
+    "tips.realms.5",
+    "tips.realms.6",
+    "tips.realms.7",
+    "tips.realms.8"
+  ]
+}

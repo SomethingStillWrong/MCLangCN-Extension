@@ -1,0 +1,62 @@
+{
+   "content": [
+      {
+         "path": "LICENSE"
+      },
+      {
+         "path": "contents.json"
+      },
+      {
+         "path": "README.md"
+      },
+      {
+         "path": "manifest.json"
+      },
+      {
+         "path": "pack_icon.png"
+      },
+      {
+         "path": "subpacks/beta/loading_messages.json"
+      },
+      {
+         "path": "subpacks/beta/splashes.json"
+      },
+      {
+         "path": "subpacks/beta/texts/languages.json"
+      },
+      {
+         "path": "subpacks/beta/texts/zh_CN.lang"
+      },
+      {
+         "path": "subpacks/education/loading_messages.json"
+      },
+      {
+         "path": "subpacks/education/splashes.json"
+      },
+      {
+         "path": "subpacks/education/texts/languages.json"
+      },
+      {
+         "path": "subpacks/education/texts/zh_CN.lang"
+      },
+      {
+         "path": "subpacks/education_demo/texts/languages.json"
+      },
+      {
+         "path": "subpacks/education_demo/texts/zh_CN.lang"
+      },
+      {
+         "path": "subpacks/preview/loading_messages.json"
+      },
+      {
+         "path": "subpacks/preview/splashes.json"
+      },
+      {
+         "path": "subpacks/preview/texts/languages.json"
+      },
+      {
+         "path": "subpacks/preview/texts/zh_CN.lang"
+      }
+   ],
+   "version": 1
+}

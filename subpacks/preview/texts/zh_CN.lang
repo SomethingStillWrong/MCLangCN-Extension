@@ -1,0 +1,12 @@
+gui.importRetailWorld.text.1=你必须先导入此世界，才能在Preview版中使用。	#
+gui.importRetailWorld.text.3=你想要创建此世界的Preview版副本吗？	#
+menu.play=开始Preview版游戏	#
+playscreen.beta_legacy_worlds=Preview版旧世界	#
+playscreen.beta_worlds=Preview版世界	#
+store.disabledOnBeta=当前Preview版已禁用此功能。	#
+store.loading.error.unavailable=市场在Preview版中不可用。
+tips.previewapp.1=感谢游玩Minecraft Preview！	#
+tips.previewapp.2=如果你在Minecraft Preview上进行游戏，那么你只能和其他同设备的Preview版上进行游戏的好友联机！	#
+tips.previewapp.3=在Minecraft Preview中购买的项目在Minecraft中同样可用！	#
+tips.previewapp.4=关于新的功能有什么好的建议吗？请在反馈网址feedback.minecraft.net上告诉我们。	#
+tips.previewapp.5=你知道你可以在discord.gg/Minecraft上和我们的开发者聊天吗？	#

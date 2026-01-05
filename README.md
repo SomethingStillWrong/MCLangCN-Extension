@@ -1,4 +1,4 @@
-# MCLangCN Extension（McLangCN拓展）
+# MCLangCN Extension（MCLangCN拓展）
 
 Optimized Chinese translations for Minecraft: Bedrock Edition.
 

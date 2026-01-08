@@ -578,7 +578,7 @@ hbui.CreateNewWorld.behaviorPacks.usingPacksLinkButton=关于使用行为包	#
 hbui.CreateNewWorld.cheats.aboutTitle=关于Minecraft教育版中的作弊功能	#
 hbui.CreateNewWorld.cheats.commandBlocksDescription=使用命令给这些方块编程。关闭命令方块可能会影响你的世界中某些功能的使用。	#
 hbui.CreateNewWorld.cheats.settingsDescription=在Minecraft教育版中的确没有像“作弊”这样的东西。你在Minecraft基岩版中的“作弊”设置内的选项都可以在高级设置中找到并更改。	#
-hbui.CreateNewWorld.classroom.destructiveItemsDescription=禁用后，玩家将无法获取和使用有害药水、TNT方块等。禁用此选项也会同时禁用并锁定“允许TNT被点燃并爆炸”、“重生方块爆炸”和“火焰蔓延”选项。	#
+hbui.CreateNewWorld.classroom.destructiveItemsDescription=禁用后，玩家将无法获取和使用带负面效果的药水、TNT等。禁用此选项也会同时禁用并锁定“允许TNT被点燃并爆炸”、“重生方块爆炸”和“火焰蔓延”选项。	#
 hbui.CreateNewWorld.classroom.destructiveItemsTitle=破坏性物品	#
 hbui.CreateNewWorld.classroom.friendlyFireDescription=启用后，玩家可以互相造成伤害，包括意外的“允许PvP”和故意行为。	#
 hbui.CreateNewWorld.classroom.friendlyFireTitle=玩家间伤害（又称允许PvP）	#
@@ -624,3 +624,4 @@ hbui.CreateNewWorldSideMenu.cloudTabLabel=云存储	#
 hbui.CreateNewWorldSideMenu.create=开始游戏	#
 hbui.CreateNewWorldSideMenu.host=托管	#
 hbui.CreateNewWorldSideMenu.narrationHostButtonHint=托管名为“%3$s”的%2$s难度%1$s世界。继续浏览以选择其他选项。	#
+

@@ -20,8 +20,3 @@ License Under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.
 
 
 Crowdin：[![Crowdin](https://badges.crowdin.net/testprojecttermstest/localized.svg)](https://crowdin.com/project/testprojecttermstest)
-
-
-Further Plan: publish release version
-
-未来计划：发布正式版

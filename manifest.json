@@ -1,23 +1,23 @@
 {
-    "format_version": 2,
+    "format_version": 3,
     "header": {
         "description": "No longer need to bear more terrible translations.",
         "name": "BE Translation Patch Extension",
         "uuid": "e176b120-0923-4b51-8d6a-1e6d904644d3",
-        "version": [26, 0, 0],
+        "version": "26.1.0",
         "platform_locked" : false,
-        "min_engine_version": [1, 21, 0]
+        "min_engine_version": "1.21.0"
     },
     "modules": [
         {
             "description": "No longer need to bear more terrible translations.",
             "type": "resources",
             "uuid": "d76c5fbd-72dd-47bd-a117-be41ba63e389",
-            "version": [1, 21, 0]
+            "version": "26.1.0"
         }
     ],
     "metadata": {
-        "authors": ["SomethingStillWrong","JYN2O18X"],
+        "authors": ["SomethingStillWrong","JYN2018X"],
         "license": "CC BY-NC-SA 4.0",
         "url": "https://github.com/SomethingStillWrong/MCLangCN-Extension"
     },

@@ -1,19 +1,19 @@
 {
-    "format_version": 2,
+    "format_version": 3,
     "header": {
         "description": "No longer need to bear more terrible translations.",
         "name": "BE Translation Patch Extension",
         "uuid": "e176b120-0923-4b51-8d6a-1e6d904644d3",
-        "version": [26, 1, 0],
+        "version": "1.26.0",
         "platform_locked" : false,
-        "min_engine_version": [1, 21, 0]
+        "min_engine_version": "1.21.0"
     },
     "modules": [
         {
             "description": "No longer need to bear more terrible translations.",
             "type": "resources",
             "uuid": "d76c5fbd-72dd-47bd-a117-be41ba63e389",
-            "version": [1, 21, 0]
+            "version": "1.26.0"
         }
     ],
     "metadata": {
@@ -24,23 +24,23 @@
     "subpacks": [
         {
             "folder_name": "education",
-            "name": "Education",
-            "memory_tier": 1
+            "name": "This subpack is for §eMinecraft Education§f content.",
+            "memory_performance_tier": 1
         },
         {
             "folder_name": "education_demo",
-            "name": "Education Demo",
-            "memory_tier": 2
+            "name": "This subpack is for §eMinecraft Education Demo§f content.",
+            "memory_performance_tier": 2
         },
         {
             "folder_name": "beta",
-            "name": "Beta",
-            "memory_tier": 3
+            "name": "This subpack is for §eMinecraft Beta§f content.",
+            "memory_performance_tier": 3
         },
         {
             "folder_name": "preview",
-            "name": "Preview",
-            "memory_tier": 4
+            "name": "This subpack is for §eMinecraft Preview§f content.",
+            "memory_performance_tier": 4
         }
     ]
 }

@@ -18,7 +18,7 @@ Source repository [MCLangCN](https://github.com/ff98sha/mclangcn) is made by [@f
 按照[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)协议发布<br>
 License Under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 
-Crowdin：[![Crowdin](https://badges.crowdin.net/testprojecttermstest/localized.svg)](https://crowdin.com/project/testprojecttermstest)
-Paratranz：https://paratranz.cn/projects/19882/history
+
+Paratranz：https://paratranz.cn/projects/19882/
 
 为了后续维护和防止Crowdin字数限制，本项目将从Crowdin迁移至Paratranz
